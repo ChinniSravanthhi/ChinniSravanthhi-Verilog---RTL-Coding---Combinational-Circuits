@@ -3,17 +3,17 @@ This repository contains Verilog RTL implementations of basic combinational logi
 
 The collection includes modules such as:
 
-Encoders / Decoders
+- Encoders / Decoders
 
-Multiplexers / Demultiplexers
+- Multiplexers / Demultiplexers
 
-Adders (Half & Full Adders)
+- Adders (Half & Full Adders)
 
-Subtractors (Half & Full Subtractors)
+- Subtractors (Half & Full Subtractors)
 
-Multiplexer / Demultiplexer
+- Multiplexer / Demultiplexer
 
-Arithmetic & Logic Unit (ALU)
+- Arithmetic & Logic Unit (ALU)
 
 Each design is written using Register Transfer Level (RTL) modeling with clear structure and comments. Testbenches are also included for functional verification using simulation tools like ModelSim, Vivado, and EDAPlayground.
 
