@@ -1,4 +1,4 @@
-# ChinniSravanthhi-Verilog---RTL-Coding---Combinational-Circuits
+# Verilog---RTL-Coding---Combinational-Circuits
 This repository contains Verilog RTL implementations of basic combinational logic circuits commonly used in digital design. The goal is to provide clean, synthesizable, and easy-to-understand code suitable for beginners and VLSI learners.
 
 The collection includes modules such as:
